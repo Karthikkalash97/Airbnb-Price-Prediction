@@ -73,6 +73,4 @@ Here I have deployed four algorithms to deploy the models, now let's check the a
 * So, for this project, the best model is only **Random forest regressor** without any kind of transformation or stacked regression.
 
 ******************************
-## Author
-Code Contributed by, Abhishek Sharma, 2021 @abhisheks008 #LGMSOC21
-[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
+
